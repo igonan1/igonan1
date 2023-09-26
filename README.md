@@ -1,4 +1,3 @@
 - Hi, I’m @igonan1
 - I’m interested in arduino, python.
-- hello, I'm a streamer kane living in twich. from now on...
--skipeya imma!
+
